@@ -9,7 +9,7 @@ Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais:
 
 # Monitor de Queimadas - Cariri 
 
-[![Google Play Store](<img width="120" height="36" alt="en_badge_web_generic" src="https://github.com/user-attachments/assets/e0d24fb7-b7e7-436f-8a73-e82585cf7e24" />)]([https://www.flipkart.com/](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri)){:target="_blank"}
+![(<img width="120" height="36" alt="en_badge_web_generic" src="https://github.com/user-attachments/assets/e0d24fb7-b7e7-436f-8a73-e82585cf7e24" />)]([https://www.flipkart.com/](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri))
 
 Este é um app desenvolvido para o projeto de extensão da Universidade Federal do Cariri (UFCA).<BR>
 Desenvolvido usando Flutter.

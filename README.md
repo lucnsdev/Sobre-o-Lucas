@@ -7,12 +7,9 @@ Já criei apps de varios tipos, jogos, apps para empresas e negocios. Trabalhei 
 
 Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais:
 
-# Monitor de Queimadas - Cariri
+# Monitor de Queimadas - Cariri [<img width="284" height="110" alt="en_badge_web_generic" src="https://github.com/user-attachments/assets/8b4cd621-cb7a-4fb5-b39c-38e5a08aa661" />]([https://link-to-your-URL/](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri))
 Este é um app desenvolvido para o projeto de extensão da Universidade Federal do Cariri (UFCA).<BR>
 Desenvolvido usando Flutter.
-
-<img width="646" height="250" alt="en_badge_web_generic" src="https://github.com/user-attachments/assets/8b4cd621-cb7a-4fb5-b39c-38e5a08aa661" />
-[![Gogle Play Store](https://github.com/user-attachments/assets/8b4cd621-cb7a-4fb5-b39c-38e5a08aa661)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri)
 
 Screenshots:<BR>
 <img width="270" height="630" src="https://github.com/user-attachments/assets/b08a5fdc-5a10-47ae-889b-5cad25365640" />

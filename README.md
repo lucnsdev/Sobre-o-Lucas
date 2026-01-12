@@ -37,3 +37,12 @@ Um app desenvolvido com Flutter. Foi criado para superar os desafios imposto num
 ![Screenshot_20230911-093045-tile](https://github.com/lucns/SWAPI/assets/16022034/304d00a4-9032-454c-8ad6-a8a7a1adf1ec)
 ![Screenshot_20230911-093103](https://github.com/lucns/SWAPI/assets/16022034/47ad2f2b-76d3-4f00-b2a3-211f3fd7142a)
 ![Screenshot_20230911-093134-tile](https://github.com/lucns/SWAPI/assets/16022034/93b32d11-8fce-4689-b399-2608dbafcf0d)
+
+# 2wd Robot
+Um Projeto para controlar um robô via bluetooth. Outro robozinho hehe.
+O app para Android foi desenvolvido em Java.
+![20260101_140957](https://github.com/user-attachments/assets/8a891eaa-9a97-41f5-97db-0bba73ef0f8e)
+![20260101_141109](https://github.com/user-attachments/assets/f94e07b7-8565-4ce0-b569-e717ffab7960)
+<img width="1335" height="733" alt="Captura de tela 2026-01-01 141237" src="https://github.com/user-attachments/assets/d258e70c-2d26-4102-9517-fc210c65e943" />
+![Screenshot_20260101_142257_2wd](https://github.com/user-attachments/assets/95bc3c69-c09f-4849-a170-32de44c1b95d)
+

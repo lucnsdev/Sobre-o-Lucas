@@ -16,6 +16,13 @@ Screenshots:<BR>
 <img width="270" height="630" src="https://github.com/user-attachments/assets/b06a1ce8-2f46-4910-8ce4-b1cbcb6116a7" />
 <img width="270" height="630" src="https://github.com/user-attachments/assets/94449e60-bbec-41a1-a223-846b41453c71" />
 
+<br><br>
+# Gupy App
+Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que me possibilitasse não ficar mais pesquisando vagas todos os dias.
+Útil para notificar quando há novas vagas na plataforma portal.gupy.io, usando java. Este app não está na Google Play Store. 
+![Screenshot_20260112_135953_Gupy-horz](https://github.com/user-attachments/assets/eca5c8e5-749c-42c4-b125-e36687c3015c)
+
+
 # 6wd Robot
 
 É um app desenvolvido em Java para controlar um pequeno robozinho de 6 rodas que montei e programei usando C++ no embarcado, o ESP32-Wrover com camera.<br>

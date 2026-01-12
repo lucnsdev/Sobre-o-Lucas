@@ -30,3 +30,10 @@ Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que 
 <img width="308" height="720" alt="Captura de tela 2026-01-12 133752" src="https://github.com/user-attachments/assets/a792f12d-ad71-410b-b206-f0c4f675f9d4" />
 <img src="https://github.com/user-attachments/assets/5be2330f-efac-45ca-83d2-51b974747db4" />
 <img width="1040" height="480" alt="Captura de tela 2026-01-12 133752" src="https://github.com/user-attachments/assets/fa3dd02c-2c57-4df4-a1e0-a7dec4e28c2d" />
+
+# SWAPI_2 ![icon_grogu](https://github.com/lucns/SWAPI/assets/16022034/2ccf4126-51df-4158-94b5-7dfb54c09339)
+Um app desenvolvido com Flutter. Foi criado para superar os desafios imposto numa seleção para a vaga de desenvolvedor mobile, da empresa Brisanet Telecomunicações.
+
+![Screenshot_20230911-093045-tile](https://github.com/lucns/SWAPI/assets/16022034/304d00a4-9032-454c-8ad6-a8a7a1adf1ec)
+![Screenshot_20230911-093103](https://github.com/lucns/SWAPI/assets/16022034/47ad2f2b-76d3-4f00-b2a3-211f3fd7142a)
+![Screenshot_20230911-093134-tile](https://github.com/lucns/SWAPI/assets/16022034/93b32d11-8fce-4689-b399-2608dbafcf0d)

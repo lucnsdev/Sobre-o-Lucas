@@ -22,7 +22,6 @@ Screenshots:<BR>
 Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que me possibilitasse não ficar mais pesquisando vagas todos os dias.
 Útil para notificar quando há novas vagas na plataforma portal.gupy.io, usando java. Este app não está na Google Play Store. 
 ![Screenshot_20260216_125845_Gupy-tile](https://github.com/user-attachments/assets/65ff0535-6743-48e7-98eb-e2d176721f8c)
-<img width="270" height="630" src="https://github.com/user-attachments/assets/86582cc9-f020-4b93-92a5-41bfc9294751" />
 
 
 # 6wd e 4wd Robot

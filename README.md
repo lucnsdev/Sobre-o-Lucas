@@ -29,10 +29,7 @@ Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que 
 # 6wd Robot
 
 É um app desenvolvido em Java para controlar um pequeno robozinho de 6 rodas que montei e programei usando C++ no embarcado, o ESP32-Wrover com camera.<br>
-<img width="540" height="720" alt="Captura de tela 2026-01-12 133752" src="https://github.com/user-attachments/assets/5ab56b16-91a1-40b7-b9eb-7db092a7f3a8" />
-<img width="308" height="720" alt="Captura de tela 2026-01-12 133752" src="https://github.com/user-attachments/assets/a792f12d-ad71-410b-b206-f0c4f675f9d4" />
-<img src="https://github.com/user-attachments/assets/5be2330f-efac-45ca-83d2-51b974747db4" />
-<img width="1040" height="480" alt="Captura de tela 2026-01-12 133752" src="https://github.com/user-attachments/assets/fa3dd02c-2c57-4df4-a1e0-a7dec4e28c2d" />
+![Screenshot_20260216_125845_Gupy-tile](https://github.com/user-attachments/assets/65ff0535-6743-48e7-98eb-e2d176721f8c)
 
 # SWAPI_2 ![icon_grogu](https://github.com/lucns/SWAPI/assets/16022034/2ccf4126-51df-4158-94b5-7dfb54c09339)
 Um app desenvolvido com Flutter. Foi criado para superar os desafios imposto numa seleção para a vaga de desenvolvedor mobile, da empresa Brisanet Telecomunicações.

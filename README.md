@@ -22,11 +22,14 @@ Screenshots:<BR>
 Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que me possibilitasse não ficar mais pesquisando vagas todos os dias.
 Útil para notificar quando há novas vagas na plataforma portal.gupy.io, usando java. Este app não está na Google Play Store. 
 ![Screenshot_20260216_125845_Gupy-tile](https://github.com/user-attachments/assets/65ff0535-6743-48e7-98eb-e2d176721f8c)
+<img width="270" height="630" src="https://github.com/user-attachments/assets/86582cc9-f020-4b93-92a5-41bfc9294751" />
 
 
-# 6wd Robot
+# 6wd e 4wd Robot
 É um app desenvolvido em Java para controlar um pequeno robozinho de 6 rodas que montei e programei usando C++ no embarcado, o ESP32-Wrover com camera.<br>
 <img width="810" height="1229" alt="Sem Título-1" src="https://github.com/user-attachments/assets/872e13ab-1cb7-499b-8449-f4b4b66ff40f" />
+![810](https://github.com/user-attachments/assets/a0e01e86-8be8-474f-bf1e-6d11878e77c3)
+![810_2](https://github.com/user-attachments/assets/c946215b-4c6e-41bc-94c1-77e54651694f)
 
 
 # SWAPI_2 ![icon_grogu](https://github.com/lucns/SWAPI/assets/16022034/2ccf4126-51df-4158-94b5-7dfb54c09339)

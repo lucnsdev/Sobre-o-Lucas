@@ -27,7 +27,7 @@ Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que 
 # 6wd e 4wd Robot
 É um app desenvolvido em Java para controlar um pequeno robozinho de 6 rodas que montei e programei usando C++ no embarcado, o ESP32-Wrover com camera.<br>
 <img width="810" height="1229" alt="Sem Título-1" src="https://github.com/user-attachments/assets/872e13ab-1cb7-499b-8449-f4b4b66ff40f" />
-![810](https://github.com/user-attachments/assets/a0e01e86-8be8-474f-bf1e-6d11878e77c3)
+<img width="810" height="713" alt="fefer" src="https://github.com/user-attachments/assets/0322238f-93e6-494d-98ef-fa44b2f323dd" />
 ![810_2](https://github.com/user-attachments/assets/c946215b-4c6e-41bc-94c1-77e54651694f)
 
 

@@ -25,6 +25,12 @@ Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que 
 <img width="3280" height="2360" alt="Screenshot_20260907_103630_Gupy-tile" src="https://github.com/user-attachments/assets/ef075832-9b18-4c87-b602-396d22fde360" />
 
 
+# CatHipster
+Um app para inserir filtros de chapel, oculos, laços, bigodes etc, em gatos usando a camera do smartphone. O app faz uso de ML com reconhecimento facial para gatos e definição de landmarks para inserção dos filtros.
+<img width="690" height="567" alt="620322266-9194ca2f-0a16-4ae9-8724-3acf81c6dc71" src="https://github.com/user-attachments/assets/6e4cfe92-d93f-4f5b-a203-79056f803b63" />
+<img width="4370" height="4710" alt="620322325-c092b1eb-3ef1-4a5c-9d32-2834a1ed0ad2-tile" src="https://github.com/user-attachments/assets/27be9311-1684-4f7e-a020-0ac67dfd4b60" />
+
+
 # Oblivium
 Um app de chat bate-papo totalmente anônimo. As mensagens ficam salvas apenas no dispositivo e por 7 dias. 
 O app é totalmente livre de backend costumizado. Todo o gerenciamento de mensagens e arquivos é realizado pelos recursos do Google Firebase. 

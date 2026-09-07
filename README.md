@@ -17,11 +17,24 @@ Screenshots:<BR>
 <img width="270" height="630" src="https://github.com/user-attachments/assets/b06a1ce8-2f46-4910-8ce4-b1cbcb6116a7" />
 <img width="270" height="630" src="https://github.com/user-attachments/assets/94449e60-bbec-41a1-a223-846b41453c71" />
 
+
 <br><br>
 # Gupy App
 Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que me possibilitasse não ficar mais pesquisando vagas todos os dias.
 Útil para notificar quando há novas vagas na plataforma portal.gupy.io, usando java. Este app não está na Google Play Store. 
-![Screenshot_20260216_125845_Gupy-tile](https://github.com/user-attachments/assets/65ff0535-6743-48e7-98eb-e2d176721f8c)
+<img width="3280" height="2360" alt="Screenshot_20260907_103630_Gupy-tile" src="https://github.com/user-attachments/assets/ef075832-9b18-4c87-b602-396d22fde360" />
+
+
+# Oblivium
+Um app de chat bate-papo totalmente anônimo. As mensagens ficam salvas apenas no dispositivo e por 7 dias. 
+O app é totalmente livre de backend costumizado. Todo o gerenciamento de mensagens e arquivos é realizado pelos recursos do Google Firebase. 
+<img width="3280" height="2360" alt="Screenshot_20260905_002737_Oblivium-tile" src="https://github.com/user-attachments/assets/3ee0127a-67f3-44d0-8155-8ef794ab2f54" />
+
+
+# AvaReminders
+A plataforma Moodle é horrivel, no ponto de vista do estudante de universidades públicas. É dificil de visualizar as atividades academicas que estão para se vencer.
+Este app tem a finalidade de mostrar todas as tarefas abertas de todas as disciplinas e aulas marcadas, em uma tela só, ordenadas por data de entrega. Isso facilita e possibilita a ciência de todas as informaçõs em um curto intervalo de tempo. Este app foi desenvolvido para ajudar alunos da UFCA.
+<img width="3280" height="2360" alt="Screenshot_20260907_111653_Ava Reminders-tile" src="https://github.com/user-attachments/assets/6276866c-1ad0-46fd-9601-976c2b91ebda" />
 
 
 # 6wd e 4wd Robot

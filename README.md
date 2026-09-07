@@ -10,7 +10,7 @@ Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais:
 # Monitor de Queimadas - Cariri [(Play Store)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri) 
 
 Este é um app desenvolvido para o projeto de extensão da Universidade Federal do Cariri (UFCA).<BR>
-Desenvolvido usando Flutter.
+Desenvolvido usando Flutter. Este app é parte de um sistema que monitora queimadas na região de mata densa do cariri cearence. O projeto possui um sistema de Machine Learning para realizar a predição de queimadas na região. A função do app é mostrar os dados de predições e climáticos, de forma visual.
 
 Screenshots:<BR>
 <img width="270" height="630" src="https://github.com/user-attachments/assets/b08a5fdc-5a10-47ae-889b-5cad25365640" />

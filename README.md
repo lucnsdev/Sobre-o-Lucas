@@ -21,7 +21,7 @@ Screenshots:<BR>
 <br><br>
 # Gupy App
 Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que me possibilitasse não ficar mais pesquisando vagas todos os dias.
-Útil para notificar quando há novas vagas na plataforma portal.gupy.io, usando java. Este app não está na Google Play Store. 
+Útil para notificar quando houver novas vagas na plataforma portal.gupy.io. Este app não está na Google Play Store, pois não possui vinculo nenhum com a empresa.
 <img width="3280" height="2360" alt="Screenshot_20260907_103630_Gupy-tile" src="https://github.com/user-attachments/assets/ef075832-9b18-4c87-b602-396d22fde360" />
 
 

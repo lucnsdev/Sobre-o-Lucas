@@ -25,6 +25,14 @@ Por algum motivo a Gupy não possui app para seus usuarios. Então criei um que 
 <img width="3280" height="2360" alt="Screenshot_20260907_103630_Gupy-tile" src="https://github.com/user-attachments/assets/ef075832-9b18-4c87-b602-396d22fde360" />
 
 
+# HeartRateMonitor
+
+Um projeto que usa um ESP32-S3 e um sensor MAX30105 para captura de sinais PPG. O gráfico da onda pode ser visualizado em um App Android, em tempo real junto ao valor dos batimentos por minuto.
+
+<img width="2340" height="1080" alt="Screenshot_20260925_132644_Heart Rate Monitor" src="https://github.com/user-attachments/assets/aa43b084-36d9-411b-a1b7-522fb2563fb9" />
+<img width="1080" height="1920" alt="frame" src="https://github.com/user-attachments/assets/06cd4c52-9a5c-4862-a818-ff736ccbd71f" />
+
+
 # CatHipster
 Um app para inserir filtros de chapel, oculos, laços, bigodes etc, em gatos usando a camera do smartphone. O app faz uso de ML com reconhecimento facial para gatos e definição de landmarks para inserção dos filtros.
 <img width="690" height="567" alt="620322266-9194ca2f-0a16-4ae9-8724-3acf81c6dc71" src="https://github.com/user-attachments/assets/6e4cfe92-d93f-4f5b-a203-79056f803b63" />

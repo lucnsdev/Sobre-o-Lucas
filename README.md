@@ -1,11 +1,11 @@
 # Sobre o Lucas
 
 Trabalho com programação a muitos anos. 
-Domino logicas de programação, independente da linguagem. Possuo sólidos conhecimentos em Java, Dart, Python, C++ e outras linguagens.
-Gosto de montar projetos que engloba o ramo da tecnologia, tanto de hardware como de software.
-Já criei apps de varios tipos, jogos, apps para empresas e negocios. Trabalhei na Brisanet Telecomunicações como Desenvolvedor de Sistemas, como programador mobile, por varios anos.
+Domino logicas de programação, independente da linguagem. Mas possuo sólidas habilidades em Java, Dart, Python, C++ e outras linguagens e frameworks.
+Construo projetos que engloba o ramo da tecnologia, tanto de hardware como de software.
+Já criei apps de varios tipos, jogos, apps para empresas e negócios. Trabalhei na Brisanet Telecomunicações como Desenvolvedor de Sistemas, como programador mobile, por varios anos. E atualmente estou investindo também no ramo academico, Já contribuí com um artigo cientifico no segmento de Deep Learning e agora estou planejando o segundo.
 
-Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais:
+Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais e institucionais:
 
 # Monitor de Queimadas - Cariri [(Play Store)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri) 
 

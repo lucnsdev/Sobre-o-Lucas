@@ -1,4 +1,7 @@
 # Sobre o Lucas
+Para envio de mensagens anonimas...
+Vou receber a mensagem em tempo real via Firebase Cloud Messaging e Android app:
+https://lucns-secret.freedev.app/
 
 ###  Desenvolvimento de Software
 Desenvolvedor de Sistemas com experiência profissional em desenvolvimento de aplicações, principalmente para dispositivos móveis, utilizando **Java, Kotlin e Dart/Flutter**. Experiência com manutenção e desenvolvimento de aplicações, integração com APIs e serviços, além de projetos próprios e acadêmicos.

@@ -1,11 +1,59 @@
 # Sobre o Lucas
 
-Trabalho com programação a muitos anos. 
-Domino logicas de programação, independente da linguagem. Mas possuo sólidas habilidades em Java, Dart, Python, C++ e outras linguagens e frameworks.
-Construo projetos que engloba o ramo da tecnologia, tanto de hardware como de software.
-Já criei apps de varios tipos, jogos, apps para empresas e negócios. Trabalhei na Brisanet Telecomunicações como Desenvolvedor de Sistemas, como programador mobile, por varios anos. E atualmente estou investindo também no ramo academico, Já contribuí com um artigo cientifico no segmento de Deep Learning e agora estou planejando o segundo.
+Profissional da área de Desenvolvimento de Software com foco em dispositivos móveis. 
+### ‍ Desenvolvimento de Software
+Desenvolvedor de Sistemas com experiência profissional em desenvolvimento de aplicações, principalmente para dispositivos móveis, utilizando **Java, Kotlin e Dart/Flutter**. Experiência com manutenção e desenvolvimento de aplicações, integração com APIs e serviços, além de projetos próprios e acadêmicos.
 
-Aqui abaixo estão alguns resumos de alguns dos meus projetos pessoais e institucionais:
+###  Desenvolvimento Mobile
+- Desenvolvimento Android com **Java/Kotlin**.
+- Desenvolvimento multiplataforma com **Flutter/Dart**.
+- Integração com **APIs REST, JSON, HTTP/HTTPS e OAuth 2.0**.
+- Experiência com **Firebase, Google Play, Git e CI/CD**.
+- Conhecimentos em **Clean Architecture e princípios SOLID**.
+
+### ⚙️ Sistemas Embarcados, IoT e Eletrônica
+- Desenvolvimento com **C/C++, Python e Java**.
+- Experiência com **ESP32, Arduino, PIC e módulos Quectel**.
+- Integração com sensores, microcontroladores e dispositivos eletrônicos.
+- Protocolos e interfaces: **BLE, LoRa, MQTT, TCP, UDP, SPI, UART, I2C e Modbus**.
+- Desenvolvimento de sistemas conectando **hardware, firmware e aplicações mobile**.
+
+###  Eletrônica e Automação
+Formação técnica em **Automação Industrial e Eletrônica/Robótica**, com experiência prática em:
+- Construção e manutenção de circuitos eletrônicos.
+- Desenvolvimento e interpretação de esquemas elétricos e eletrônicos.
+- Soldagem e montagem de componentes **SMD**.
+- Programação de microcontroladores e sensores.
+- Instrumentação e utilização de equipamentos de medição.
+- Desenvolvimento de placas e protótipos físicos.
+- Utilização de **CNC a laser** para fabricação de placas e componentes. 
+
+###  Projetos e Robótica
+Desenvolvimento de projetos completos envolvendo **hardware + software**, incluindo:
+- Robô 6WD controlado por aplicativo Android via Wi-Fi/UDP, com streaming de vídeo utilizando ESP32.
+- Sistemas automotivos envolvendo **GPS, 4G, Bluetooth e LoRa**.
+- Sistemas embarcados com gerenciamento inteligente de energia.
+- Projetos de IoT e automação.
+
+###  Inteligência Artificial e Pesquisa
+- Projetos envolvendo **Machine Learning e processamento de imagens**.
+- Aplicações de IA em sistemas de monitoramento e previsão.
+- Desenvolvimento de aplicativo para monitoramento e previsão de queimadas utilizando **Flutter, APIs REST e Firebase**.
+- Coautor de **artigo científico internacional publicado pela Elsevier**, envolvendo IA para detecção, segmentação e classificação de tumores cerebrais em imagens de ressonância magnética.
+
+###  Sistemas Biomédicos
+Projeto de monitoramento de sinais biomédicos utilizando **PPG, ECG e sensores de movimento**, com comunicação Bluetooth entre o sistema embarcado e aplicativo Android, além de pesquisa envolvendo Machine Learning para identificação de padrões e anomalias.
+
+###  Formação
+- Graduação em **Análise e Desenvolvimento de Sistemas** – UFCA, em fase de conclusão.
+- Técnico em **Automação Industrial** – SENAI Ceará.
+- Técnico em **Tecnologia da Informação** – Projeto E-Jovem/Governo do Estado.
+- Cursos complementares em **Python, C++, IA aplicada a sistemas embarcados e análise de dados de sensores**.
+
+###  Áreas de interesse
+Busco oportunidades em **Desenvolvimento de Software, Android/Mobile, Flutter, C/C++, Sistemas Embarcados, IoT, Automação, Eletrônica e integração Hardware/Software**, especialmente em projetos de tecnologia, inovação e desenvolvimento de soluções práticas.
+
+# Aqui abaixo estão algunss de meus projetos pessoais e institucionais:
 
 # Monitor de Queimadas - Cariri [(Play Store)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri) 
 

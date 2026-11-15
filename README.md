@@ -1,6 +1,5 @@
 # Sobre o Lucas
 
-Profissional da área de Desenvolvimento de Software com foco em dispositivos móveis. 
 ### ‍ Desenvolvimento de Software
 Desenvolvedor de Sistemas com experiência profissional em desenvolvimento de aplicações, principalmente para dispositivos móveis, utilizando **Java, Kotlin e Dart/Flutter**. Experiência com manutenção e desenvolvimento de aplicações, integração com APIs e serviços, além de projetos próprios e acadêmicos.
 
@@ -11,7 +10,7 @@ Desenvolvedor de Sistemas com experiência profissional em desenvolvimento de ap
 - Experiência com **Firebase, Google Play, Git e CI/CD**.
 - Conhecimentos em **Clean Architecture e princípios SOLID**.
 
-### ⚙️ Sistemas Embarcados, IoT e Eletrônica
+### Sistemas Embarcados, IoT e Eletrônica
 - Desenvolvimento com **C/C++, Python e Java**.
 - Experiência com **ESP32, Arduino, PIC e módulos Quectel**.
 - Integração com sensores, microcontroladores e dispositivos eletrônicos.
@@ -53,7 +52,7 @@ Projeto de monitoramento de sinais biomédicos utilizando **PPG, ECG e sensores 
 ###  Áreas de interesse
 Busco oportunidades em **Desenvolvimento de Software, Android/Mobile, Flutter, C/C++, Sistemas Embarcados, IoT, Automação, Eletrônica e integração Hardware/Software**, especialmente em projetos de tecnologia, inovação e desenvolvimento de soluções práticas.
 
-# Aqui abaixo estão algunss de meus projetos pessoais e institucionais:
+# Projetos Relevantes
 
 # Monitor de Queimadas - Cariri [(Play Store)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri) 
 

@@ -49,9 +49,6 @@ Projeto de monitoramento de sinais biomédicos utilizando **PPG, ECG e sensores 
 - Técnico em **Tecnologia da Informação** – Projeto E-Jovem/Governo do Estado.
 - Cursos complementares em **Python, C++, IA aplicada a sistemas embarcados e análise de dados de sensores**.
 
-###  Áreas de interesse
-Busco oportunidades em **Desenvolvimento de Software, Android/Mobile, Flutter, C/C++, Sistemas Embarcados, IoT, Automação, Eletrônica e integração Hardware/Software**, especialmente em projetos de tecnologia, inovação e desenvolvimento de soluções práticas.
-
 # Projetos Relevantes
 
 ### Monitor de Queimadas - Cariri [(Play Store)](https://play.google.com/store/apps/details?id=lucns.monitor_queimadas_cariri) 
